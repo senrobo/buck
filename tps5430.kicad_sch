@@ -1363,7 +1363,7 @@
     (property "Value" "TPS5430DDA" (at 128.27 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:TI_SO-PowerPAD-8_ThermalVias" (at 129.54 109.22 0)
+    (property "Footprint" "footprints:TI_SO-PowerPAD-8_ThermalVias" (at 129.54 109.22 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tps5430.pdf" (at 128.27 100.33 0)
